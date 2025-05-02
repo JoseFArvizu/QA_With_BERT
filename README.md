@@ -1,6 +1,6 @@
 # 🤖 BERT Question Answering Bot
 
-Welcome to the **QA_WithBERT** project! This repository demonstrates how to build a simple Question Answering (QA) system using 🤗 [Transformers](https://huggingface.co/transformers/) and the **BERT** model fine-tuned on the SQuAD dataset.
+Welcome to the **QA_With_BERT** project! This repository demonstrates how to build a simple Question Answering (QA) system using 🤗 [Transformers](https://huggingface.co/transformers/) and the **BERT** model fine-tuned on the SQuAD dataset.
 
 ## 🔍 Overview
 
